@@ -1,3 +1,0 @@
-<template>
-    <h1>HELLo</h1>
-</template>
